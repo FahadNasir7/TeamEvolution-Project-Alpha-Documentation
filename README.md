@@ -7,7 +7,7 @@ The game was developed as part of our **Software Project Management (SPM) course
 # 🤝 Team Evoution
 | Members                      |        Roles             | 
 |------------------------------|--------------------------|
-| Fahad Nasir                  | Project Manager          | 
+| Fahad Nasir                  | Project Manager/Sound Effect Artist| 
 | Syed Minhal Ali Raza         | Lead Developer           | 
 | Mughees Azhar                | 3D Modeler               |
 | Muhammad Raffay Sheikh       | Marketing Expert/Developer| 
