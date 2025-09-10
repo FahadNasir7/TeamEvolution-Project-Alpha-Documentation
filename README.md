@@ -12,7 +12,7 @@ The game was developed as part of our **Software Project Management (SPM) course
 | Mughees Azhar                | 3D Modeler               |
 | Muhammad Raffay Sheikh       | Marketing Expert/Developer| 
 | Muhammad Ahmer Siddiqui      | Visual Effects Specialist| 
-| Muhammad Yahya Saleem        | Assistant Visual Effects |
+| Muhammad Yahya Saleem        | Visual Effects Specialist|
 
 ## 🎯 Project Objectives (SPM Alignment)
 
