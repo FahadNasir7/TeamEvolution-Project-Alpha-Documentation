@@ -1,4 +1,4 @@
-# 🎮 Video-Game-Project (SPM Documentation)
+# 🎮 Project Alpha (SPM Documentation)
 
 This project is an open world zombie survival game built with **Unreal Engine 5.6**, featuring immersive survival mechanics, intelligent zombie AI, and a visually rich explorable town.  
 It is designed to showcase advanced programming, 3D modeling, VFX, and sound design skills for both academic evaluation and portfolio development.  
